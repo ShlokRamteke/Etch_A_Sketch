@@ -1,6 +1,7 @@
 # Etch-A-Sketch Web Application
 
 This repository contains the  files for a web-based Etch-A-Sketch application. It is complete website where you can draw and create artwork on a grid using different modes and colors.
+![Live Website](https://shlokramteke.github.io/Etch_A_Sketch/) 
 
 ## Features
 
